@@ -154,12 +154,12 @@ body {
   display: flex;
   justify-content: space-around;
   border-radius: 40px;
-  max-width: 92%;
+  max-width: 89%;
   margin-top: -4%;
   padding: 80px 20px;
   margin-left: 4%;
   background: #FFFFFF;
-  clip-path: polygon(0 8%, 49% 8%, 53% 0, 85% 0%, 100% 0, 100% 15%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);
+  clip-path: polygon(0 7%, 48% 7%, 53% 0, 85% 0%, 100% 0, 100% 15%, 100% 85%, 100% 66%, 100% 88%, 100% 100%, 47% 100%, 0 100%);
   }
 .containerItems {
   margin-left: 4%;
